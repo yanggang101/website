@@ -125,6 +125,6 @@ onUnmounted(() => context?.revert())
       </div>
     </section>
 
-    <footer class="bg-[#06101f] px-6 py-8 lg:px-8"><div class="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-4 text-sm text-slate-400"><p class="font-medium tracking-[0.12em] text-white">智寻科技</p><p>企业官网定制设计与部署</p></div></footer>
+    <footer class="bg-[#06101f] px-6 py-8 lg:px-8"><div class="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-4 text-sm text-slate-400"><p class="font-medium tracking-[0.12em] text-white">智寻科技-CEO__csy</p><p>企业官网定制设计与部署</p></div></footer>
   </main>
 </template>
